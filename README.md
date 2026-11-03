@@ -31,3 +31,4 @@ Em `main.js`, preencha `FORM_ENDPOINT` com a URL do serviço (ex.: Formspree). E
 6. **Instagram:** a grade usa imagens de cases como provisórias. Trocar pelas publicações reais.
 7. **Licença da Glancyr Neue:** confirmar se a licença comprada cobre uso como webfont.
 8. **Versão de apresentação:** o `index.html` tem `<meta name="robots" content="noindex, nofollow">` para o link temporário não aparecer no Google. Remover antes de publicar no domínio da Full.
+9. **Compliance:** a seção tem um texto provisório entre colchetes. Substituir pelo conteúdo enviado pela Full.
