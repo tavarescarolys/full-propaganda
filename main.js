@@ -353,7 +353,7 @@
           return (
             '<li><a href="' + atributo(p.permalink) + '" target="_blank" rel="noopener">' +
               '<img src="' + atributo(img) + '" alt="' + atributo(legenda || "Publicação da Full Propaganda no Instagram") +
-              '" loading="lazy" width="480" height="480"></a></li>'
+              '" loading="lazy" width="480" height="640"></a></li>'
           );
         }).join("");
       })

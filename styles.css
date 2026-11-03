@@ -655,7 +655,7 @@ button { font: inherit; color: inherit; }
   gap: var(--gutter);
 }
 @media (min-width: 768px) { .instagram__grade { grid-template-columns: repeat(6, 1fr); } }
-.instagram__grade a { display: block; aspect-ratio: 1; overflow: hidden; }
+.instagram__grade a { display: block; aspect-ratio: 3 / 4; overflow: hidden; }
 .instagram__grade img {
   width: 100%; height: 100%;
   object-fit: cover;
