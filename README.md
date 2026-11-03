@@ -28,7 +28,7 @@ Em `main.js`, preencha `FORM_ENDPOINT` com a URL do serviço (ex.: Formspree). E
 3. **PROMO:** "estratégicas" ou "estratégias" (mantido, com comentário no HTML).
 4. **Formulário:** definir o serviço e preencher `FORM_ENDPOINT`.
 5. **Case 11:** URL do vídeo.
-6. **Instagram:** a grade usa imagens de cases como provisórias. Trocar pelas publicações reais.
+6. **Instagram:** o site já sabe mostrar as 6 últimas publicações. Falta conectar a conta: criar um feed em behold.so com o login do Instagram da Full e colar a URL do feed JSON em `INSTAGRAM_FEED_URL`, no `main.js`. Enquanto estiver vazio, aparecem imagens de cases.
 7. **Licença da Glancyr Neue:** confirmar se a licença comprada cobre uso como webfont.
 8. **Versão de apresentação:** o `index.html` tem `<meta name="robots" content="noindex, nofollow">` para o link temporário não aparecer no Google. Remover antes de publicar no domínio da Full.
 9. **Compliance:** a seção tem um texto provisório entre colchetes. Substituir pelo conteúdo enviado pela Full.

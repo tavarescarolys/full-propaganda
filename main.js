@@ -6,6 +6,10 @@
   // Ex.: "https://formspree.io/f/xxxxxxx". Vazio: o envio mostra a mensagem de erro.
   var FORM_ENDPOINT = "";
 
+  // Feed JSON do Instagram (Behold.so ou serviço com o mesmo formato).
+  // Ex.: "https://feeds.behold.so/xxxxxxxx". Vazio: a grade mostra as imagens provisórias do HTML.
+  var INSTAGRAM_FEED_URL = "";
+
   var CASES = window.CASES || [];
   var raiz = document.documentElement;
   var reduzido = window.matchMedia("(prefers-reduced-motion: reduce)");
@@ -332,6 +336,30 @@
 
   /* ---------- Utilidades ---------- */
 
+  /* ---------- Instagram ---------- */
+
+  function carregarInstagram() {
+    var grade = document.getElementById("instagram-grade");
+    if (!INSTAGRAM_FEED_URL || !grade) return;
+    fetch(INSTAGRAM_FEED_URL)
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function (dados) {
+        var posts = (Array.isArray(dados) ? dados : dados.posts || []).slice(0, 6);
+        if (!posts.length) return;
+        grade.innerHTML = posts.map(function (p) {
+          var tam = p.sizes && p.sizes.medium;
+          var img = (tam && tam.mediaUrl) || (p.mediaType === "VIDEO" ? p.thumbnailUrl : p.mediaUrl);
+          var legenda = (p.prunedCaption || p.caption || "").slice(0, 120);
+          return (
+            '<li><a href="' + atributo(p.permalink) + '" target="_blank" rel="noopener">' +
+              '<img src="' + atributo(img) + '" alt="' + atributo(legenda || "Publicação da Full Propaganda no Instagram") +
+              '" loading="lazy" width="480" height="480"></a></li>'
+          );
+        }).join("");
+      })
+      .catch(function (e) { console.warn("Instagram: feed indisponível, mantendo as imagens do HTML.", e); });
+  }
+
   function texto(s) {
     return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
   }
@@ -348,6 +376,7 @@
   aoRolar();
   encherParede();
   abrirPeloEndereco();
+  carregarInstagram();
 
   if (document.fonts && document.fonts.ready) document.fonts.ready.then(ajustarAssinatura);
   var redimensionar;
