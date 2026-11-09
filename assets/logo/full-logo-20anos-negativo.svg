@@ -1,0 +1,232 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="589.3199462890625 -3264.340087890625 864.1600341796875 295.31005859375"><style xmlns="http://www.w3.org/2000/svg">
+      .st0 {
+        fill: #2acb00;
+      }
+
+      .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8 {
+        font-family: Montserrat-Black, Montserrat;
+        font-weight: 800;
+      }
+
+      .st1, .st3, .st9, .st10, .st11, .st7 {
+        font-size: 18.95px;
+      }
+
+      .st1, .st5, .st12, .st9, .st13 {
+        fill: #292b2b;
+      }
+
+      .st14, .st15, .st16, .st8 {
+        fill: #58595b;
+      }
+
+      .st17 {
+        fill: #d1d3d4;
+      }
+
+      .st18 {
+        letter-spacing: 0em;
+      }
+
+      .st18, .st19, .st20, .st21, .st22, .st9, .st23, .st24, .st25, .st10, .st11, .st26 {
+        font-weight: 300;
+      }
+
+      .st18, .st19, .st20, .st21, .st22, .st24, .st25 {
+        font-family: Montserrat-Light, Montserrat;
+      }
+
+      .st27 {
+        font-family: GlancyrNeue-Expanded, 'PABDU T+ Glancyr Neue';
+      }
+
+      .st27, .st28, .st29, .st30, .st31, .st32, .st33, .st34, .st35, .st36, .st23, .st10, .st37, .st38, .st7, .st39, .st40, .st41, .st26 {
+        fill: #fff;
+      }
+
+      .st27, .st28, .st29, .st30, .st31, .st32, .st33, .st36, .st23, .st37, .st38, .st39, .st40, .st26 {
+        font-size: 22.94px;
+        letter-spacing: .04em;
+      }
+
+      .st42 {
+        fill: #1d74f7;
+      }
+
+      .st2, .st43 {
+        letter-spacing: -.02em;
+      }
+
+      .st28 {
+        font-family: GlancyrNeue-MediumExpanded, 'PABDU T+ Glancyr Neue';
+        font-weight: 500;
+      }
+
+      .st44 {
+        stroke: #fff;
+      }
+
+      .st44, .st45, .st46 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .st45 {
+        stroke: #231f20;
+      }
+
+      .st47, .st3, .st11 {
+        fill: #8f9093;
+      }
+
+      .st19 {
+        letter-spacing: .02em;
+      }
+
+      .st20, .st24 {
+        letter-spacing: .02em;
+      }
+
+      .st21, .st48, .st49 {
+        letter-spacing: .02em;
+      }
+
+      .st29 {
+        font-family: GlancyrNeue-BoldExpanded, 'PABDU T+ Glancyr Neue';
+      }
+
+      .st29, .st33, .st50, .st48 {
+        font-weight: 700;
+      }
+
+      .st4 {
+        font-size: 200px;
+        letter-spacing: .02em;
+      }
+
+      .st30 {
+        font-family: GlancyrNeue-ThinExpObliq, 'PABDU T+ Glancyr Neue';
+      }
+
+      .st30, .st31 {
+        font-weight: 200;
+      }
+
+      .st30, .st32, .st33, .st23, .st37, .st39, .st40 {
+        font-style: oblique;
+      }
+
+      .st51 {
+        letter-spacing: 1.02em;
+      }
+
+      .st46 {
+        stroke: #292b2b;
+      }
+
+      .st5, .st12, .st15, .st52, .st24, .st25, .st8 {
+        font-size: 44.34px;
+      }
+
+      .st53 {
+        letter-spacing: .22em;
+      }
+
+      .st31 {
+        font-family: GlancyrNeue-ThinExpanded, 'PABDU T+ Glancyr Neue';
+      }
+
+      .st9, .st54, .st10, .st11, .st55 {
+        font-style: italic;
+      }
+
+      .st9, .st10, .st11 {
+        font-family: Montserrat-LightItalic, Montserrat;
+      }
+
+      .st32 {
+        font-family: GlancyrNeue-ExpandedOblique, 'PABDU T+ Glancyr Neue';
+      }
+
+      .st16 {
+        font-size: 160.51px;
+      }
+
+      .st33 {
+        font-family: GlancyrNeue-BoldExpObliq, 'PABDU T+ Glancyr Neue';
+      }
+
+      .st35 {
+        font-size: 62.06px;
+        letter-spacing: -.1em;
+      }
+
+      .st35, .st38, .st41 {
+        font-weight: 600;
+      }
+
+      .st35, .st41 {
+        font-family: Manrope-SemiBold, 'Manrope SemiBold';
+        font-variation-settings: ';
+      }
+
+      .st36 {
+        font-family: GlancyrNeue-ExtLtExp, 'PABDU T+ Glancyr Neue';
+      }
+
+      .st23 {
+        font-family: GlancyrNeue-LightExpObliq, 'PABDU T+ Glancyr Neue';
+      }
+
+      .st54, .st55 {
+        font-family: Montserrat-Italic, Montserrat;
+      }
+
+      .st25 {
+        letter-spacing: .02em;
+      }
+
+      .st50, .st48 {
+        font-family: Montserrat-Bold, Montserrat;
+      }
+
+      .st37 {
+        font-family: GlancyrNeue-MedExpObliq, 'PABDU T+ Glancyr Neue';
+      }
+
+      .st56 {
+        fill: #b5ff00;
+      }
+
+      .st38 {
+        font-family: GlancyrNeue-SemiBoldExpanded, 'PABDU T+ Glancyr Neue';
+      }
+
+      .st57 {
+        letter-spacing: -.1em;
+      }
+
+      .st58 {
+        fill: #f9bddf;
+      }
+
+      .st39 {
+        font-family: GlancyrNeue-ExtLtExpObliq, 'PABDU T+ Glancyr Neue';
+      }
+
+      .st40 {
+        font-family: GlancyrNeue-SemBdExpObliq, 'PABDU T+ Glancyr Neue';
+      }
+
+      .st55 {
+        letter-spacing: -.02em;
+      }
+
+      .st41 {
+        font-size: 12.41px;
+      }
+
+      .st26 {
+        font-family: GlancyrNeue-LightExpanded, 'PABDU T+ Glancyr Neue';
+      }
+    </style><polygon xmlns="http://www.w3.org/2000/svg" class="st34" points="593.32 -3056.24 642.18 -3056.24 642.18 -3135.41 716.09 -3135.41 716.09 -3183.96 642.18 -3183.96 642.18 -3212.1 734.65 -3212.1 734.65 -3260.34 593.32 -3260.34 593.32 -3056.24"/><polygon xmlns="http://www.w3.org/2000/svg" class="st34" points="854.55 -3104.48 794.86 -3104.48 794.86 -3260.34 745.69 -3260.34 745.69 -3056.24 766.72 -3056.24 882.69 -3056.24 903.72 -3056.24 903.72 -3260.34 854.55 -3260.34 854.55 -3104.48"/><polygon xmlns="http://www.w3.org/2000/svg" class="st34" points="963.93 -3260.34 914.76 -3260.34 914.76 -3056.24 1042.92 -3056.24 1042.92 -3104.48 963.93 -3104.48 963.93 -3260.34"/><polygon xmlns="http://www.w3.org/2000/svg" class="st34" points="1132.95 -3260.34 1132.95 -3104.48 1053.96 -3104.48 1053.96 -3056.24 1182.12 -3056.24 1182.12 -3260.34 1132.95 -3260.34"/><path xmlns="http://www.w3.org/2000/svg" class="st47" d="M1174.23-2973.03v-19.74h-31.58v19.74h-7.89v-47.36h47.36v47.36h-7.89ZM1142.64-3000.66h31.58v-11.85h-31.58v11.85ZM1074.6-2973.03v-47.36h36.82l10.54,14.57v32.79h-47.36ZM1082.49-2980.92h31.58v-21.21l-7.51-10.38h-24.08v31.58ZM1050.51-2973.03l-28.19-39.12v39.12h-7.89v-47.36h11.21l28.26,39.19v-39.19h7.89v47.36h-11.28ZM993.75-2973.03v-19.74h-31.58v19.74h-7.89v-47.36h47.36v47.36h-7.89ZM962.17-3000.66h31.58v-11.85h-31.58v11.85ZM894.12-2973.03v-47.36h47.36v7.89h-39.47v31.58h31.58v-11.85h-13.79v-7.89h21.68v27.62h-47.36ZM873.43-2973.03v-19.74h-31.58v19.74h-7.89v-47.36h47.36v47.36h-7.89ZM841.85-3000.66h31.58v-11.85h-31.58v11.85ZM773.8-2973.03v-47.36h47.36v27.62h-39.47v19.74h-7.89ZM781.61-3000.66h31.66v-11.85h-31.66v11.85ZM713.64-2973.03v-47.36h47.36v47.36h-47.36ZM721.53-2980.92h31.58v-31.58h-31.58v31.58ZM689.63-2973.03l-14.31-19.74h-13.95v19.74h-7.89v-47.36h47.36v27.62h-16.23l14.31,19.74h-9.29ZM661.37-3000.66h31.58v-11.85h-31.58v11.85ZM593.32-2973.03v-47.36h47.36v27.62h-39.47v19.74h-7.89ZM601.13-3000.66h31.66v-11.85h-31.66v11.85Z"/><polygon xmlns="http://www.w3.org/2000/svg" class="st56" points="1219.46 -3124.83 1219.46 -3207.85 1298.89 -3207.85 1298.89 -3229.83 1219.46 -3229.83 1219.46 -3260.34 1329.4 -3260.34 1329.4 -3177.33 1249.98 -3177.33 1249.98 -3155.35 1329.4 -3155.35 1329.4 -3124.83 1219.46 -3124.83"/><path xmlns="http://www.w3.org/2000/svg" class="st56" d="M1339.54-3124.83v-135.51h109.94v135.51h-109.94ZM1418.96-3155.35v-74.63h-48.91v74.63h48.91Z"/><path xmlns="http://www.w3.org/2000/svg" class="st34" d="M1402.12-3056.24v-7.6h39.76v-12.28h-39.76v-27.48h47.36v7.6h-39.76v12.28h39.76v27.48h-47.36ZM1342.23-3056.24v-47.36h47.36v47.36h-47.36ZM1349.84-3063.84h32.15v-32.15h-32.15v32.15ZM1318.6-3056.24l-28.65-39.76v39.76h-7.6v-47.36h11.03l28.72,39.83v-39.83h7.6v47.36h-11.11ZM1262.22-3056.24v-19.88h-32.15v19.88h-7.6v-47.36h47.36v47.36h-7.6ZM1230.06-3083.72h32.15v-12.28h-32.15v12.28Z"/><polygon xmlns="http://www.w3.org/2000/svg" class="st56" points="1121.52 -3201 1038.16 -3201 1031.58 -3192.94 1121.52 -3192.94 1121.52 -3201"/><polygon xmlns="http://www.w3.org/2000/svg" class="st56" points="1079.73 -3189.14 1028.48 -3189.14 1022.36 -3181.63 1073.61 -3181.63 1079.73 -3189.14"/><rect xmlns="http://www.w3.org/2000/svg" class="st56" x="1081.49" y="-3177.27" width="40.03" height="6.94"/><rect xmlns="http://www.w3.org/2000/svg" class="st56" x="1081.49" y="-3189.14" width="40.03" height="7.5"/><polygon xmlns="http://www.w3.org/2000/svg" class="st56" points="1121.52 -3215.55 1121.52 -3224.74 974.98 -3224.74 974.98 -3220.31 1053.91 -3220.31 1050.03 -3215.55 1121.52 -3215.55"/><rect xmlns="http://www.w3.org/2000/svg" class="st56" x="1081.49" y="-3165.4" width="40.03" height="6.38"/><rect xmlns="http://www.w3.org/2000/svg" class="st56" x="974.98" y="-3236.61" width="146.54" height="9.75"/><polygon xmlns="http://www.w3.org/2000/svg" class="st56" points="1060.37 -3165.4 1009.12 -3165.4 1003.92 -3159.02 1055.17 -3159.02 1060.37 -3165.4"/><polygon xmlns="http://www.w3.org/2000/svg" class="st56" points="1050.69 -3153.53 999.44 -3153.53 994.7 -3147.72 1045.95 -3147.72 1050.69 -3153.53"/><rect xmlns="http://www.w3.org/2000/svg" class="st56" x="1081.49" y="-3153.53" width="40.03" height="5.81"/><rect xmlns="http://www.w3.org/2000/svg" class="st56" x="974.98" y="-3260.34" width="146.54" height="10.88"/><rect xmlns="http://www.w3.org/2000/svg" class="st56" x="1081.49" y="-3129.79" width="40.03" height="4.69"/><rect xmlns="http://www.w3.org/2000/svg" class="st56" x="1081.49" y="-3141.66" width="40.03" height="5.25"/><polygon xmlns="http://www.w3.org/2000/svg" class="st56" points="980.08 -3129.79 976.26 -3125.11 1027.5 -3125.11 1031.33 -3129.79 980.08 -3129.79"/><rect xmlns="http://www.w3.org/2000/svg" class="st56" x="1081.49" y="-3117.93" width="40.03" height="4.13"/><polygon xmlns="http://www.w3.org/2000/svg" class="st56" points="1041.01 -3141.66 989.76 -3141.66 985.48 -3136.41 1036.72 -3136.41 1041.01 -3141.66"/><polygon xmlns="http://www.w3.org/2000/svg" class="st56" points="1070.05 -3177.27 1018.8 -3177.27 1013.14 -3170.33 1064.39 -3170.33 1070.05 -3177.27"/><polygon xmlns="http://www.w3.org/2000/svg" class="st56" points="1121.52 -3212.87 1047.84 -3212.87 1040.81 -3204.24 1121.52 -3204.24 1121.52 -3212.87"/><polygon xmlns="http://www.w3.org/2000/svg" class="st56" points="970.4 -3117.93 967.04 -3113.8 1018.28 -3113.8 1021.65 -3117.93 970.4 -3117.93"/><rect xmlns="http://www.w3.org/2000/svg" class="st56" x="974.98" y="-3248.48" width="146.54" height="10.32"/></svg>
